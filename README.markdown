@@ -47,8 +47,8 @@ The pipeline leverages PyTorch, Hugging Face Transformers, scikit-learn, and vis
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/tweeteval-emotion-clustering.git
-   cd tweeteval-emotion-clustering
+   git clone https: https://github.com/programophile/Text-Clustering-using-Contrastive-Bert---Neural-Networks-Project-cse425-spring25-BRACU-
+   cd Text-Clustering-using-Contrastive-Bert---Neural-Networks-Project-cse425-spring25-BRACU-
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash
